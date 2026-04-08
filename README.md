@@ -8,4 +8,4 @@ Investigating the behavioral and neurobiological correlates of intersubjective a
 - **Geometric Hyperscanning:** Mapping how collective priors and affect drive shared intelligence.
 - **Applied Neuroscience:** Advising AI-driven product and medtech ventures on embodied cognition.
 
-📫 **Connect:** Open to collaborations on the HyPhi(Φ) pipeline, collective intelligence, and multi-agent neuroscience. Contact me at [hinrichsn@cbs.mpg.de](mailto:hinrichsn@cbs.mpg.de).
+📫 Open to collaborations on the [HyPhi(Φ) pipeline](https://github.com/nicolashinrichs/HyPhi), collective intelligence, and multi-agent neuroscience. Contact me at [hinrichsn@cbs.mpg.de](mailto:hinrichsn@cbs.mpg.de).
